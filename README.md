@@ -1,26 +1,60 @@
-<h1 align="center">Ciao, sono Rocco Vigliotta  <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" alt="Shake" width="40"/>
-  <h3 align="center">Sono uno studente della Facoltà di Informatica presso l'Università degli Studi di Salerno. Appassionato di tecnologia, programmazione e innovazione. </br> </br>
-<div align="center"> <a href="https://www.unisa.it"> <img src="https://github.com/Smo17817/Smo17817/assets/127348760/77285d15-e181-4f92-a8ba-f421728e1b6f" alt="UnisaLogo" width="120"/> </a> </div>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=dcebfd&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+World!+My+name+is+Rocco+Vigliotta.)](https://git.io/typing-svg)
+---
 
-## 💻 Languages and Tools
-<p align="left"> 
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="60" height="60"/></a> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/></a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60"/></a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/></a> 
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="60" height="60"/></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="60" height="60"></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60"/></a> 
+<p align="center">
+  MSc Computer Science student · Data Science & Machine Learning<br/>
+  University of Salerno, Italy
 </p>
 
-## 📫 Connect with me:
-<p align="left">
-<a href="https://www.linkedin.com/in/rocco-vigliotta-6160a6306/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rocco-vigliotta-6160a6306/" height="60" width="80" /></a>
-<a href="https://www.instagram.com/roccovigliotta/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/roccovigliotta/" height="60" width="80" /></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/rocco-vigliotta-6160a6306/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.instagram.com/roccovigliotta/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
 </p>
 
-## 🔥 My Stats
-<div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rvigliotta&show_icons=true&locale=en&layout=compact&theme=github_dark&card_height=150" alt="rvigliotta" />
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=RVigliotta&theme=github-dark-blue&hide_border=true&card_height=150" alt="GitHub Streak" /></a>
-</div>
+
+I hold a Bachelor's degree in Computer Science and I'm currently pursuing a Master's degree in Computer Science at the **University of Salerno**, with a focus on **Data Science and Machine Learning**. My goal is to continuously expand my knowledge and enhance my skills.
+
+## Education
+
+| Degree | Institution | Status |
+| --- | --- | --- |
+| MSc in Computer Science (Data Science & Machine Learning) | University of Salerno | In progress |
+| BSc in Computer Science | University of Salerno | Completed |
+
+## Areas of interest
+
+- **Machine Learning & Deep Learning:** CNNs, clustering, classical supervised models, missing-data imputation (MICE)
+- **Adversarial ML:** FGSM and PGD attacks, adversarial training
+- **Privacy-preserving computation:** homomorphic encryption (Paillier), k-anonymity, data masking
+- **LLMs & RAG:** retrieval-augmented generation with vector databases, local and hosted models
+- **Cybersecurity & OSINT:** risk assessment of social profiles, MITRE ATT&CK
+- **Backend & real-time systems:** REST APIs, WebSockets, event-driven architectures on Redis
+
+## Tech stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,c,java,js,nodejs,html,css,php,bash,powershell,astro&perline=11" alt="Languages"/>
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=fastapi,react,mysql,redis,docker,git,github,pytorch,sklearn&perline=9" alt="Backend, Frontend, Databases and DevOps"/>
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,androidstudio,eclipse,linux,windows&perline=5" alt="Tools and OS"/>
+</p>
+
+| Area | Technologies |
+| --- | --- |
+| **Languages (primary)** | Python, C, SQL, HTML/CSS, Java |
+| **Also worked with** | JavaScript (Node.js), Java SE/EE, PHP, Bash, XML, Astro |
+| **ML & Data Science** | PyTorch, torchvision, scikit-learn, pandas, NumPy, SciPy, Matplotlib, Seaborn |
+| **LLMs & RAG** | LLaMA 3, DeepSeek, Claude, ChatGPT, Gemini, Cohere embeddings, Ollama, Groq, Weaviate, Verba |
+| **Backend & APIs** | FastAPI, Uvicorn, Pydantic, asyncio, WebSockets, Swagger UI |
+| **Frontend** | React, Astro, HTML5/CSS3, JavaScript |
+| **Databases** | Redis (Stack, JSON, Streams, Search), MySQL, Weaviate |
+| **Security** | Paillier encryption, k-anonymity, SHA-256 hashing, MITRE ATT&CK |
+| **DevOps & testing** | Docker, Docker Compose, Git, Google Colab, pytest, testcontainers, fakeredis |
+| **Tools & OS** | VS Code, Android Studio, Eclipse, Linux, Windows, Android |
