@@ -25,14 +25,6 @@ I hold a Bachelor's degree in Computer Science and I'm currently pursuing a Mast
 | MSc in Computer Science (Data Science & Machine Learning) | University of Salerno | In progress |
 | BSc in Computer Science | University of Salerno | Completed |
 
-## Areas of interest
-
-- **Machine Learning & Deep Learning:** CNNs, clustering, classical supervised models, missing-data imputation (MICE)
-- **Adversarial ML:** FGSM and PGD attacks, adversarial training
-- **Privacy-preserving computation:** homomorphic encryption (Paillier), k-anonymity, data masking
-- **LLMs & RAG:** retrieval-augmented generation with vector databases, local and hosted models
-- **Cybersecurity & OSINT:** risk assessment of social profiles, MITRE ATT&CK
-- **Backend & real-time systems:** REST APIs, WebSockets, event-driven architectures on Redis
 
 ## Tech stack
 
